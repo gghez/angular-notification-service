@@ -13,6 +13,12 @@ bower install --save angular-notification-service
 
 ## Usage
 
+Load script using `<script>` HTML tag like you do with angular.
+
+```html
+<script src="assets/libs/angular-notification-service/notificationService.js"></script>
+```
+
 Add as reference to your application module.
 
 ```js
