@@ -1,4 +1,6 @@
 (function(){
+    angular.module('angularNotification', ['ng']);
+    
     angular.module('angularNotification').service('Notification', [function () {
     
         var callbacks = {};
