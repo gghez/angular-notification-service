@@ -3,8 +3,5 @@
   "version": "0.1.0",
   "description": "Simple notification service for AngularJS application.",
   "repository": "http://github.com/gghez/angular-notification-service.git",
-  "main": ["src/**/*"],
-  "peerDependencies": {
-    "angular": "~1.3.14"
-  }
+  "main": ["src/**/*"]
 }
